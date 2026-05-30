@@ -1,0 +1,51 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+.gradle/
+build/
+out/
+target/
+
+# C/C++
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.dylib
+*.exe
+bin/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Temp
+*.tmp
+*.swp
+*.swo
+*~
+
+# Debug
+*.dSYM/
+core
+
+# Test output
+test-results/
