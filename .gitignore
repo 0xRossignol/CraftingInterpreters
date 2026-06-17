@@ -49,3 +49,7 @@ core
 
 # Test output
 test-results/
+
+lox/Stmt.java
+lox/Expr.java
+test
